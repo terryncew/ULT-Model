@@ -33,6 +33,11 @@ $$\frac{dC}{dt} = \gamma (H + A) + \lambda (S_H + S_A) - \delta C + \beta_Ag (H 
 This model is designed to be explored, tested, and refined. Researchers, developers, and theorists can build upon these equations, implement them in simulations, and analyze the emergent properties of human-AI interactions.  
 
 ---
-  
+
+Why This Matters
+
+The Unintended Long-Term Trajectory (ULT) Model is a framework for understanding structured emergence in complex systems—markets, AI, decision-making, and beyond. Instead of randomness, ULT suggests that chaos has underlying patterns that shape long-term outcomes.
+
+This repo serves as an open reference for anyone interested in exploring, testing, and expanding on these ideas. Contributions, insights, and discussions are welcome.
 
 **Note:** GitHub’s Markdown doesn’t render LaTeX natively. If you want to see the equations properly formatted, use a Jupyter Notebook (`.ipynb`) or a Markdown viewer that supports LaTeX.  
